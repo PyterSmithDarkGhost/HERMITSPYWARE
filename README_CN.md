@@ -1,7 +1,7 @@
 
 文档地址：[https://www.lookcos.cn/docs/hermit](https://www.lookcos.cn/docs/hermit)
 
-由于不是专业Android开发，布局分析开发遇到瓶颈了。但是目前体积小巧，操作类功能也够用了。谢谢各位支持，以后应该还会更新。
+已经修复截图相关功能，并且界面布局分析也很好用了。
 
 ### Hermit简介
 
